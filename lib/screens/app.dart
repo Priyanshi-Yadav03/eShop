@@ -1,4 +1,4 @@
-import 'package:botique_placement/screens/splashScreen.dart';
+import 'splashscreen.dart';
 import 'package:flutter/material.dart';
 
 class MyWidget extends StatelessWidget {
