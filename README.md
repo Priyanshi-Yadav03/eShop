@@ -1,6 +1,4 @@
-# botique_placement
-
-A new Flutter project.
+# Electronics_App
 
 ## Getting Started
 
